@@ -1,5 +1,8 @@
 #include <stdio.h>
+void greeting(){
+printf("Hello World\n");
+}
 int main(void) {
-  printf("Hello World\n");
-  return 0;
+greeting();
+return 0;
 }
