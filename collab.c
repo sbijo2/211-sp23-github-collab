@@ -269,5 +269,6 @@ int main() {
   ddizo2_tle94();
   dnazi2_lcasti39();
   smajji3_tphan34();
+  jturne44_yatla2();
   return 0;
 }
