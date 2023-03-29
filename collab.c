@@ -246,6 +246,15 @@ void nnewm3_mshifa2_oahme3() {
 }
 
 
+void ayaag2_jms13_ksoni21(){
+  printf("Adam Yaagoub\n");
+  printf("Kevin Soni\n");
+  printf("Joshua Sandoval\n");
+  printf("We learned how to use Git and also conncect with Replit to make work easier\n");
+  printf("We also learned how to properly use pull and push to update a remote repository\n");
+  printf("Cloning and modifing the repository via the Git tool in replit is far eaiser than using the Shell to do it (since it involves SSH and stc.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -280,7 +289,12 @@ int main() {
   dnazi2_lcasti39();
   kgumma2_sdoyle9();
   rGarn3_mRahi2();
+  smajji3_tphan34();
+  hmodi5_jtagu2();
+  pkann2_refin2();
+  acruz200();
+  skaka4_maguir23();
+  lmeha2_ntemp3();
   nnewm3_mshifa2_oahme3();
-
   return 0;
 }
