@@ -72,6 +72,11 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void pghimi3_ariver67(){
+  printf("Pratishat Ghimire and Arturo Rivera");
+  printf("We learned how to reflect the changes made locally, remotely on the original repo");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +88,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  pghimi3_ariver67();
 
   return 0;
 }
