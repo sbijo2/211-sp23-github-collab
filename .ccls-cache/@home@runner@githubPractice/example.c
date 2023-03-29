@@ -2,12 +2,11 @@
 void greeting(){
 printf("Hello World\n");
 }
+//add your net ID to the func name
+void jbrya4_(){
+  
+}
 int main(void) {
-// greeting();
-int result = 0;
-scanf("%d", &result);
-  if(result > 0){
-    greeting();
-  }
+  
 return 0;
 }
