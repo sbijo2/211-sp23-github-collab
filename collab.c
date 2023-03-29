@@ -307,6 +307,12 @@ void dshah96_and_kpate452(){
   printf("We learned about git commands and also with that we got to know about how we can collaborate in real world when working on a big project with the help of github\n");
 }
 
+void mshah245_amicha33()
+{
+  printf("Moksh Shah and Alan Michalek"\n);
+  printf("We learned that version control is very important\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -355,5 +361,6 @@ int main() {
   skaka4_maguir23();
   numar2_azaidi5();
   dshah96_and_kpate452();
+  mshah245_amicha33();
   return 0;
 }
