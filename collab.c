@@ -78,15 +78,11 @@ void pghimi3_ariver67(){
 }
 
 void ddesle3_yshah33(){
-  printf("Dishant Desle, Yashwi Shah\n");
+  printf("\nDishant Desle, Yashwi Shah\n");
   printf("We learned to connect and collaborate on a code under one\n"); 
   printf("repository and that we can update the existinig repository.");
   printf("We learned that github is online programming tool\n");
   printf("that more software companies use to communicate about their project\n");
-void jrosal21_melqa2() {
-    printf("Isaac Rosales, Musa Elqaq");
-    printf("Xcode has integrated source control in the toolbar which contains git hub commands.")
-    printf("Installing to local machine and keeping track of commits.")
 }
 
 int main() {
@@ -102,7 +98,6 @@ int main() {
   jgongo2_pkoby2_kseki3();
   pghimi3_ariver67();
   ddesle3_yshah33();
-  jrosal21_melqa2();
 
   return 0;
 }
