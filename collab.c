@@ -92,11 +92,11 @@ void pghimi3_ariver67() {
          "original repo");
 }
 
-void skalal2(){
+void skalal2() {
   printf("Sanskar Kalal");
-  printf("I learned how to use github effectively to collaborate with other developers");
+  printf("I learned how to use github effectively to collaborate with other "
+         "developers");
 }
-
 
 void dzabi2() {
   printf("Denys Zabiyaka");
@@ -111,8 +111,11 @@ void tmei22_akona2() {
 
 void jdelr5_lwalk9() {
   printf("James Del Re and Levi Walker");
-  printf("We learned that git is used for a lot more than just uploading code and is really useful for version control too.");
-  printf("I learned using git is very benefical for when multiple people are working on project and can accomplish more in less time as they continue to push changes to the remote repository");
+  printf("We learned that git is used for a lot more than just uploading code "
+         "and is really useful for version control too.");
+  printf("I learned using git is very benefical for when multiple people are "
+         "working on project and can accomplish more in less time as they "
+         "continue to push changes to the remote repository");
 }
 
 void ddesle3_yshah33() {
@@ -191,10 +194,10 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
-void bpark40()
-{
+void bpark40() {
   printf("Byeonguk Park\n");
-  printf("I learned ijnkjnblokhow to clone a repository and edit it. I also found how to update the changes to collab repository");
+  printf("I learned ijnkjnblokhow to clone a repository and edit it. I also "
+         "found how to update the changes to collab repository");
 }
 void yguad2_xhuan7() {
   printf("Yasmin Guadarrama, \n");
@@ -212,72 +215,86 @@ void vmora7_jnett6() {
 }
 
 <<<<<<< HEAD
-void ssoms2_hvonte2(){
+void ssoms2_hvonte2() {
   printf("Shane Somson\n");
   printf("Harini Vontela\n");
-  printf("Github is a great way to collaborate with people on the same project.");
+  printf(
+      "Github is a great way to collaborate with people on the same project.");
 =======
 void ddizo2_tle94() {
   printf("Dylan Dizonno\n");
   printf("Tam Le\n");
 
-  
-
   printf("You can use git to create a running log of changes and edits\n");
-  printf("You can collab with as many people as you want in an organized fashion\n");
+  printf("You can collab with as many people as you want in an organized "
+         "fashion\n");
 }
 
-void dnazi2_lcasti39(){
+void dnazi2_lcasti39() {
   printf("Dania Nazimuddin and Lorena Castillejo");
-  printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
+  printf("Something that gave us trouble was figuring out the logistics of "
+         "github, \n like creating repositories\n");
 }
 
-void kgumma2_sdoyle9(){
+void kgumma2_sdoyle9() {
   printf("Chay Gummalla and Sophie Doyle");
-  printf("One issue that we have encountered while cloning a repository is related to authentication.");
+  printf("One issue that we have encountered while cloning a repository is "
+         "related to authentication.");
 >>>>>>> 53a1c7d7ea8e4acf747ed614c84997bdedd41c97
 }
 
-void nvm4_radu3(){
+void nvm4_radu3() {
   printf("Naga Maddipudi and Reggie Adu");
-  prinft("One thing we had trouble with was installing bash into our computers and getting it to work.\n");
+  prinft("One thing we had trouble with was installing bash into our computers "
+         "and getting it to work.\n");
 }
 
-void rGarn3_mRahi2(){
+void rGarn3_mRahi2() {
   printf("Rachel Garner and Minahil Rahimullah");
-  printf("Something we found difficult was the formating of the github website and seeing what each and every function does\n");
-  printf("exploring the website was interesting as it lead to many discoveries sucha as collaberation options and other functions");
-  
+  printf("Something we found difficult was the formating of the github website "
+         "and seeing what each and every function does\n");
+  printf("exploring the website was interesting as it lead to many discoveries "
+         "sucha as collaberation options and other functions");
 }
 
-void smajji3_tphan34(){
+void smajji3_tphan34() {
   printf("Sai Pratheek Majji /n");
   printf(" Trinh Thi Phuong Phan /n");
-  printf(" we learned how to clone the repository and also faced challenges in the beggining with error linker command failed /n");
-  printf( "Now, we are a bit familiar with Git.\n ");
+  printf(" we learned how to clone the repository and also faced challenges in "
+         "the beggining with error linker command failed /n");
+  printf("Now, we are a bit familiar with Git.\n ");
   printf("Changing something\n");
 }
 
-void hmodi5_jtagu2(){
+void hmodi5_jtagu2() {
   printf("hmodi5 and Josh Tagudar/n");
-  printf("I heard a lot about github but didnt really knew hiw it worked and how we can collaborate and clone the repository so it was a very new thing for me");
+  printf("I heard a lot about github but didnt really knew hiw it worked and "
+         "how we can collaborate and clone the repository so it was a very new "
+         "thing for me");
 }
 
-void aCruz200(){
+void aCruz200() {
   printf("Alex Cruz Martinez/n");
   printf("Rebasing in git is very important to keep the code up to date");
 }
 
-void jbuen4_cnaro2(){
+void jbuen4_cnaro2() {
   printf("Joshua Bueno\n");
-  printf("We learned how to use Git and Github to efficiently collaborate on projects\n");
+  printf("We learned how to use Git and Github to efficiently collaborate on "
+         "projects\n");
 }
 
 void pkann2_refin2() {
   printf("Pavan Kannan and Raneem Efin\n");
-  printf("We learned that GitHub can be a good place for employers to see projects you worked on");
+  printf("We learned that GitHub can be a good place for employers to see "
+         "projects you worked on");
 }
-
+void skaka4_maguir23() {
+  printf("Sai Rohan , Mario Aguirre-Rosales\n");
+  printf("Learnt about linking Replit and GitHub, GitHub is a code hosting "
+         "platform for version control and collaboration. It lets you and "
+         "others work together on projects from anywhere.\n");
+}
 
 int main() {
   printf(
@@ -291,8 +308,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-  mmadr5()
-  shaji3();
+  mmadr5() shaji3();
   pghimi3_ariver67();
   dzabi2();
   ddesle3_yshah33();
@@ -317,8 +333,9 @@ int main() {
   kgumma2_sdoyle9();
   rGarn3_mRahi2();
   smajji3_tphan34();
-hmodi5_jtagu2();
-pkann2_refin2();
-acruz200();
+  hmodi5_jtagu2();
+  pkann2_refin2();
+  acruz200();
+  skaka4_maguir23();
   return 0;
 }
