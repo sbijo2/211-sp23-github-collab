@@ -158,6 +158,10 @@ void assdsa() {
   printf("sadc");
   printf("sdsd");
 }
+void cmora21_nrayan2(){
+  printf("Cesar Morales Neil Rayan\n");
+  printf("Something I learned was how to clone a repo and make changes to a remote repo from a local repo.\n");
+}
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -179,6 +183,7 @@ int main() {
   rwisni2_ajoshi46();
   wsitu3();
   aomar22();
+  cmora21_nrayan2();
 
   return 0;
 }
