@@ -76,6 +76,12 @@ void jgongo2_pkoby2_kseki3() {
   printf("We learned that commit and push are seperate operations. "
          "You can make multiple commmits before pushing to the repository.\n");
 }
+void bboin2_rsimm5(){
+  printf("Rovia Simmons and Bhavani Boini\n");
+  printf("We learned that github repositories can be used in Replit, and share many git commands\n");
+  printf("and that github is used by many companies\n");
+}
+
 void shaji3() {
   printf("My name is Sabona and one thing I learned about Git is how to use "
          "git revert to undo changes in my repository.\n");
@@ -340,6 +346,7 @@ int main() {
   skesl2_rjain56_ngoel9();
   dwils22_mtino3();
   preyes9_naboug2();
+  bboin2_rsimm5();
   skaka4_maguir23();
   numar2_azaidi5();
 
