@@ -25,7 +25,7 @@ void reed_ekidan2() {
 void amite2() {
   printf("Andrej Mitevski\n");
   printf("Thought that github was literally just a place to upload code, "
-         "learned it has a lot more than that\n");
+         "learned it has a lot more than that.\n");
 }
 
 void shadd3_alojko2() {
@@ -186,6 +186,11 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
+
+void yatla2_jturne44(){
+  printf("Yassir Atlas, Jailin Turner");
+  printf("I learned that github was not just a website but acceissible via the terminal");
+}
 void bpark40()
 {
   printf("Byeonguk Park\n");
@@ -220,7 +225,13 @@ void dnazi2_lcasti39(){
   printf("Dania Nazimuddin and Lorena Castillejo");
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
 }
+void smajji3_tphan34(){
+printf("Sai Pratheek Majji /n");
+printf(" Trinh Thi Phuong Phan /n");
+printf(" we learned how to clone the repository and also faced challenges in the beggining with error linker command failed /n");
+}
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 void kgumma2_sdoyle9(){
   printf("Chay Gummalla and Sophie Doyle");
@@ -231,6 +242,11 @@ void ksabo4_heasam2(){
   printf("Harshavardhan Easam\n");
   printf("We learned that you can directly connect a github repo to replit.\n");
 >>>>>>> 6e97a669b1132631f92d04b00b4ae266c9100f77
+=======
+void jturne44_yatla2(){
+    printf("Jailin Turner and Yassir Atlas\n");
+    printf("We learned that git can be used in IDE's as well as the website, difficulty finding right file to pull.\n");
+>>>>>>> afce50c27cf0397a92543ff5638d24802f61924f
 }
 
 int main() {
@@ -266,10 +282,14 @@ int main() {
   ddizo2_tle94();
   dnazi2_lcasti39();
 <<<<<<< HEAD
+<<<<<<< HEAD
   kgumma2_sdoyle9();
 =======
   ksabo4_heasam2();
 >>>>>>> 6e97a669b1132631f92d04b00b4ae266c9100f77
 
+=======
+  smajji3_tphan34();
+>>>>>>> afce50c27cf0397a92543ff5638d24802f61924f
   return 0;
 }
