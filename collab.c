@@ -362,5 +362,7 @@ int main() {
   numar2_azaidi5();
   dshah96_and_kpate452();
   mshah245_amicha33();
+
+  x = 1;
   return 0;
 }
