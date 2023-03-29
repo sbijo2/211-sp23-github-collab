@@ -221,9 +221,16 @@ void dnazi2_lcasti39(){
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
 }
 
+<<<<<<< HEAD
 void kgumma2_sdoyle9(){
   printf("Chay Gummalla and Sophie Doyle");
   printf("")
+=======
+void ksabo4_heasam2(){
+  printf("Kyle Sabo\n");
+  printf("Harshavardhan Easam\n");
+  printf("We learned that you can directly connect a github repo to replit.\n");
+>>>>>>> 6e97a669b1132631f92d04b00b4ae266c9100f77
 }
 
 int main() {
@@ -258,7 +265,11 @@ int main() {
   bpark40();
   ddizo2_tle94();
   dnazi2_lcasti39();
+<<<<<<< HEAD
   kgumma2_sdoyle9();
+=======
+  ksabo4_heasam2();
+>>>>>>> 6e97a669b1132631f92d04b00b4ae266c9100f77
 
   return 0;
 }
