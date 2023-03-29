@@ -166,6 +166,14 @@ void airfan6_aarro3(){
   printf("Alex Arroyo \n");
   printf("I learned how to connect my replit account to my GitHub account to modify repositories");
 }
+
+void yguad2_xhuan7(){
+prinf("Yasmin Guadarrama, \n");
+printf("Xingwei Huang\n");
+printf("I learned that git is kind of confusing to navigate. I also learned how to connect my github to my replit account.")
+}
+
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -189,6 +197,7 @@ int main() {
   aomar22();
   cmora21_nrayan2();
   airfan6_aarro3();
+  yguad2_xhuan7();
 
   return 0;
 }
