@@ -169,7 +169,7 @@ void airfan6_aarro3(){
 void bpark40()
 {
   printf("Byeonguk Park\n");
-  printf("I learned how to clone a repository and edit it. I also found how to update the changes to collab repository");
+  printf("I learned ijnkjnblokhow to clone a repository and edit it. I also found how to update the changes to collab repository");
 }
 int main() {
   printf(
