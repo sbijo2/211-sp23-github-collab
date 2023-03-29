@@ -87,6 +87,12 @@ void pghimi3_ariver67() {
          "original repo");
 }
 
+void skalal2(){
+  printf("Sanskar Kalal");
+  printf("I learned how to use github effectively to collaborate with other developers");
+}
+
+
 void dzabi2() {
   printf("Denys Zabiyaka");
   printf("I learned that Git allows developers to create multiple branches for "
@@ -95,8 +101,8 @@ void dzabi2() {
 
 void jdelr5_lwalk9() {
   printf("James Del Re and Levi Walker");
-  printf("We learned that git is used for a lot more than just uploading code and
-    is really useful for version control too.");
+  printf("We learned that git is used for a lot more than just uploading code and is really useful for version control too.");
+  printf("I learned using git is very benefical for when multiple people are working on project and can accomplish more in less time as they continue to push changes to the remote repository");
 }
 
 void ddesle3_yshah33() {
@@ -195,7 +201,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-<<<<<<< HEAD
+
   shaji3();
   pghimi3_ariver67();
   dzabi2();
@@ -210,7 +216,8 @@ int main() {
   cmora21_nrayan2();
   airfan6_aarro3();
   yguad2_xhuan7();
->>>>>>> c87c312a2ae923d6e259530cd14a4cd249eba915
+  skalal2();
+
 
   return 0;
 }
