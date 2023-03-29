@@ -220,6 +220,11 @@ void dnazi2_lcasti39(){
   printf("Dania Nazimuddin and Lorena Castillejo");
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
 }
+void smajji3_tphan34(){
+printf("Sai Pratheek Majji /n");
+printf(" Trinh Thi Phuong Phan /n");
+printf(" we learned how to clone the repository and also faced challenges in the beggining with error linker command failed /n");
+}
 
 int main() {
   printf(
@@ -253,6 +258,6 @@ int main() {
   bpark40();
   ddizo2_tle94();
   dnazi2_lcasti39();
-
+  smajji3_tphan34();
   return 0;
 }
