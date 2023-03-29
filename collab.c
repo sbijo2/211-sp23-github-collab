@@ -187,10 +187,10 @@ void eberr6() {
 }
 
 void yguad2_xhuan7() {
-  prinf("Yasmin Guadarrama, \n");
+  printf("Yasmin Guadarrama, \n");
   printf("Xingwei Huang\n");
   printf("I learned that git is kind of confusing to navigate. I also learned "
-         "how to connect my github to my replit account.")
+         "how to connect my github to my replit account.");
 }
 void vmora7_jnett6() {
   printf("Vania Mora Bastidas\n");
@@ -199,6 +199,12 @@ void vmora7_jnett6() {
          "directly and can keep track of the changes made.\n");
   printf(
       "You can import from github to clone or use command line arguments.\n");
+}
+
+void ssoms2_hvonte2(){
+  printf("Shane Somson\n");
+  printf("Harini Vontela\n");
+  printf("Github is a great way to collaborate with people on the same project.");
 }
 
 int main() {
@@ -230,6 +236,7 @@ int main() {
   yguad2_xhuan7();
   skalal2();
   vmora7_jnett6();
+  ssoms2_hvonte2();
 
   return 0;
 }
