@@ -263,6 +263,12 @@ void hmodi5_jtagu2(){
   printf("I heard a lot about github but didnt really knew hiw it worked and how we can collaborate and clone the repository so it was a very new thing for me");
 }
 
+void aCruz200(){
+  printf("Alex Cruz Martinez/n");
+  printf("Rebasing in git is very important to keep the code up to date");
+}
+
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -302,5 +308,6 @@ int main() {
   rGarn3_mRahi2();
   smajji3_tphan34();
 hmodi5_jtagu2();
+acruz200();
   return 0;
 }
