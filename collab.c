@@ -206,6 +206,11 @@ void vmora7_jnett6() {
       "You can import from github to clone or use command line arguments.\n");
 }
 
+void dnazi2_lcasti39(){
+  printf("Dania Nazimuddin and Lorena Castillejo");
+  printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -236,6 +241,7 @@ int main() {
   skalal2();
   vmora7_jnett6();
   bpark40();
+  dnazi2_lcasti39();
 
   return 0;
 }
