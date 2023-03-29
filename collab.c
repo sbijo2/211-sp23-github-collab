@@ -89,6 +89,12 @@ void dzabi2() {
          "their codebase.");
 }
 
+void jdelr5_lwalk9() {
+  printf("James Del Re and Levi Walker");
+  printf("We learned that git is used for a lot more than just uploading code and
+    is really useful for version control too.");
+}
+
 void ddesle3_yshah33() {
   printf("Dishant Desle, Yashwi Shah\n");
   printf("We learned to connect and collaborate on a code under one\n");
