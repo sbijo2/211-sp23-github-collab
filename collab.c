@@ -186,14 +186,11 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
-<<<<<<< HEAD
 void bpark40()
 {
   printf("Byeonguk Park\n");
   printf("I learned ijnkjnblokhow to clone a repository and edit it. I also found how to update the changes to collab repository");
 }
-=======
-
 void yguad2_xhuan7() {
   prinf("Yasmin Guadarrama, \n");
   printf("Xingwei Huang\n");
@@ -209,7 +206,6 @@ void vmora7_jnett6() {
       "You can import from github to clone or use command line arguments.\n");
 }
 
->>>>>>> 7bf00add1f0336924ff35edd7574af93f551295e
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -239,6 +235,7 @@ int main() {
   yguad2_xhuan7();
   skalal2();
   vmora7_jnett6();
+  bpark40();
 
   return 0;
 }
