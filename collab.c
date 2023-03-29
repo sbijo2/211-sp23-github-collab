@@ -76,6 +76,10 @@ void jgongo2_pkoby2_kseki3() {
   printf("We learned that commit and push are seperate operations. "
          "You can make multiple commmits before pushing to the repository.\n");
 }
+void shaji3() {
+  printf("My name is Sabona and one thing I learned about Git is how to use git revert to undo changes in my repository.\n");
+}
+
 
 void pghimi3_ariver67() {
   printf("Pratishat Ghimire and Arturo Rivera");
@@ -150,7 +154,6 @@ void aomar22() {
   printf("Ackchat Omar");
   printf(
       "I learned that git pull is combination of git fetch and git merge.\n");
-  
 }
 void wsitu3() {
   printf("Wulong Situ\n");
@@ -160,10 +163,27 @@ void assdsa() {
   printf("sadc");
   printf("sdsd");
 }
-void cmora21_nrayan2(){
+void cmora21_nrayan2() {
   printf("Cesar Morales Neil Rayan\n");
-  printf("Something I learned was how to clone a repo and make changes to a remote repo from a local repo.\n");
+  printf("Something I learned was how to clone a repo and make changes to a "
+         "remote repo from a local repo.\n");
 }
+void airfan6_aarro3() {
+  printf("Alex Arroyo \n");
+  printf("I learned how to connect my replit account to my GitHub account to "
+         "modify repositories");
+}
+void eberr6() {
+  printf("i learned how to pull from git using replit and to push a commit\n");
+}
+
+void yguad2_xhuan7(){
+prinf("Yasmin Guadarrama, \n");
+printf("Xingwei Huang\n");
+printf("I learned that git is kind of confusing to navigate. I also learned how to connect my github to my replit account.")
+}
+
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -175,6 +195,8 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+<<<<<<< HEAD
+  shaji3();
   pghimi3_ariver67();
   dzabi2();
   ddesle3_yshah33();
@@ -186,6 +208,9 @@ int main() {
   wsitu3();
   aomar22();
   cmora21_nrayan2();
+  airfan6_aarro3();
+  yguad2_xhuan7();
+>>>>>>> c87c312a2ae923d6e259530cd14a4cd249eba915
 
   return 0;
 }
