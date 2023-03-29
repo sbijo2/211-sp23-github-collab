@@ -269,6 +269,11 @@ void aCruz200(){
 }
 
 
+void lmeha2_ntemp3(){
+  printf("Leona Meharenna, Niko Tempera\n");
+  printf("Github is used to collaborate on code in a large scale. Something that confused us were the structure of the command line commands.");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
