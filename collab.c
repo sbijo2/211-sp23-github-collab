@@ -233,6 +233,11 @@ void kgumma2_sdoyle9(){
 >>>>>>> 53a1c7d7ea8e4acf747ed614c84997bdedd41c97
 }
 
+void nvm4_radu3(){
+  printf("Naga Maddipudi and Reggie Adu");
+  prinft("One thing we had trouble with was installing bash into our computers and getting it to work.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
