@@ -192,10 +192,10 @@ void bpark40()
   printf("I learned ijnkjnblokhow to clone a repository and edit it. I also found how to update the changes to collab repository");
 }
 void yguad2_xhuan7() {
-  prinf("Yasmin Guadarrama, \n");
+  printf("Yasmin Guadarrama, \n");
   printf("Xingwei Huang\n");
   printf("I learned that git is kind of confusing to navigate. I also learned "
-         "how to connect my github to my replit account.")
+         "how to connect my github to my replit account.");
 }
 void vmora7_jnett6() {
   printf("Vania Mora Bastidas\n");
@@ -204,6 +204,18 @@ void vmora7_jnett6() {
          "directly and can keep track of the changes made.\n");
   printf(
       "You can import from github to clone or use command line arguments.\n");
+}
+
+void ddizo2_tle94() {
+  printf("Dylan Dizonno\n");
+  printf("Tam Le\n");
+
+  
+
+  printf("You can use git to create a running log of changes and edits\n");
+  printf("You can collab with as many people as you want in an organized fashion\n");
+
+
 }
 
 int main() {
@@ -236,6 +248,7 @@ int main() {
   skalal2();
   vmora7_jnett6();
   bpark40();
+  ddizo2_tle94();
 
   return 0;
 }
