@@ -173,7 +173,7 @@ void airfan6_aarro3() {
 }
 void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
-  printf("i learned how to do it through the command line\n");
+  printf("i learned how to do it through the command line it was difficult\n");
 }
 
 void yguad2_xhuan7() {
@@ -189,6 +189,7 @@ int main() {
   reed_ekidan2();
   amite2();
   shadd3_alojko2();
+  eberr6();
   mausaf2_kperez39();
   ppacho2_grohr2();
   dkhar3_nvaly2();
