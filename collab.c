@@ -186,6 +186,11 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
+
+void yatla2_jturne44(){
+  printf("Yassir Atlas, Jailin Turner");
+  printf("I learned that github was not just a website but acceissible via the terminal");
+}
 void bpark40()
 {
   printf("Byeonguk Park\n");
@@ -219,6 +224,11 @@ void ddizo2_tle94() {
 void dnazi2_lcasti39(){
   printf("Dania Nazimuddin and Lorena Castillejo");
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
+}
+void smajji3_tphan34(){
+printf("Sai Pratheek Majji /n");
+printf(" Trinh Thi Phuong Phan /n");
+printf(" we learned how to clone the repository and also faced challenges in the beggining with error linker command failed /n");
 }
 
 void jturne44_yatla2(){
@@ -258,6 +268,6 @@ int main() {
   bpark40();
   ddizo2_tle94();
   dnazi2_lcasti39();
-
+  smajji3_tphan34();
   return 0;
 }
