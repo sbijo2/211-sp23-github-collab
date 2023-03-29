@@ -172,6 +172,7 @@ int main() {
   svoda_jbrya4();
   rwisni2_ajoshi46();
   wsitu3();
+  aomar22();
 
   return 0;
 }
