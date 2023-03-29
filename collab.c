@@ -93,6 +93,8 @@ void jdelr5_lwalk9() {
   printf("James Del Re and Levi Walker");
   printf("We learned that git is used for a lot more than just uploading code and
     is really useful for version control too.");
+  printf("I learned using git is very benefical for when multiple people are working on a project
+    and can accomplish more in less time as they continue to push changes to the remote repository");
 }
 
 void ddesle3_yshah33() {
