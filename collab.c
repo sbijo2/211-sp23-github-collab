@@ -186,6 +186,11 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
+
+void yatla2_jturne44(){
+  printf("Yassir Atlas, Jailin Turner");
+  printf("I learned that github was not just a website but acceissible via the terminal");
+}
 void bpark40()
 {
   printf("Byeonguk Park\n");
