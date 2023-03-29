@@ -77,14 +77,6 @@ void pghimi3_ariver67(){
   printf("We learned how to reflect the changes made locally, remotely on the original repo");
 }
 
-void dzabi2(){
-  printf("Denys Zabiyaka");
-  printf("I learned that Git allows developers to create multiple branches for their codebase.");
-}
-
-int main() {
-  printf(
-      "This code has been created by the students of CS 211, Spring 2023!\n\n");
 void ddesle3_yshah33(){
     printf("Dishant Desle, Yashwi Shah\n");
     printf("We learned to connect and collaborate on a code under one\n"); 
@@ -120,13 +112,6 @@ void dshah97_ysawa2(){
   printf("we understand how git works and we will work on it\n");
 }
 
-void rwisni2_ajoshi46() {
-    printf("Anshool Joshi, Remik Wisniewski");
-    printf("I learned how to collabrate with other on github");
-    printf("I learned new git commands");
-
-}
-
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
@@ -137,16 +122,9 @@ int main() {
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
   pghimi3_ariver67();
-<<<<<<< HEAD
-  dzabi2();
-
-=======
   ddesle3_yshah33();
   jrosal21_melqa2();
   dshah97_ysawa2();
   svoda_jbrya4();
-  rwisni2_ajoshi46();
-    
->>>>>>> 3c20ca07030e6f1a8f8d241f4c0a282ce896cf71
   return 0;
 }
