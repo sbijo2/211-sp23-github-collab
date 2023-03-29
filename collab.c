@@ -268,6 +268,11 @@ void aCruz200(){
   printf("Rebasing in git is very important to keep the code up to date");
 }
 
+void jbuen4_cnaro2(){
+  printf("Joshua Bueno\n");
+  printf("We learned how to use Git and Github to efficiently collaborate on projects\n");
+}
+
 
 int main() {
   printf(
