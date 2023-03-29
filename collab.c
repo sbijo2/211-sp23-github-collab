@@ -221,6 +221,11 @@ void dnazi2_lcasti39(){
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
 }
 
+void jturne44_yatla2(){
+    printf("Jailin Turner and Yassir Atlas\n");
+    printf("We learned that git can be used in IDE's as well as the website, difficulty finding right file to pull.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
