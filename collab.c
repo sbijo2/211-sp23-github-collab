@@ -318,6 +318,11 @@ void mmadr5() {
   printf("Github is pretty cool for forking other peoples projects!\n");
 }
 
+void sbijo2() {
+  printf("Sidharth Bijo");
+  printf("I learned about the different git commands and their functions. As well as how helpful this powerful tool can be for me as a Computer Science student.");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
