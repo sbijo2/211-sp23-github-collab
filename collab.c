@@ -104,6 +104,7 @@ int main() {
   jgongo2_pkoby2_kseki3();
   pghimi3_ariver67();
   ddesle3_yshah33();
+  jrosal21_melqa2();
 
   return 0;
 }
