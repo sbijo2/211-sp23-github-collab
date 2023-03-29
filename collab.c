@@ -373,6 +373,7 @@ int main() {
   dshah96_and_kpate452();
   mshah245_amicha33();
   mmadr5();
+  sbijo2_acamp35();
 
   return 0;
 }
