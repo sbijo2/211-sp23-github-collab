@@ -259,6 +259,12 @@ void skesl2_rjain56_ngoel9(){
   printf("We learned about the various git commands in a brief manner from the readings, but we still more practice with the git commands");
 }
 
+void dwils22_mtino3() {
+  printf("Darius Wilson & Marco Tinoco");
+  printf("GitHub could be used for a lot of things, and something we learned was the commands like clone, push, add, and status.");
+  printf("Using git commit is really useful to see what was the last thing you did (When you do commit).");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -301,6 +307,7 @@ int main() {
   lmeha2_ntemp3();
   nnewm3_mshifa2_oahme3();
   skesl2_rjain56_ngoel9();
+  dwils22_mtino3();
   
   return 0;
 }
