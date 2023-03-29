@@ -206,7 +206,6 @@ void vmora7_jnett6() {
       "You can import from github to clone or use command line arguments.\n");
 }
 
-<<<<<<< HEAD
 void ddizo2_tle94() {
   printf("Dylan Dizonno\n");
   printf("Tam Le\n");
@@ -215,13 +214,11 @@ void ddizo2_tle94() {
 
   printf("You can use git to create a running log of changes and edits\n");
   printf("You can collab with as many people as you want in an organized fashion\n");
+}
 
-
-=======
 void dnazi2_lcasti39(){
   printf("Dania Nazimuddin and Lorena Castillejo");
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
->>>>>>> d5f2e09e259cbfc0ef321a353e6f3d5c179a0531
 }
 
 int main() {
