@@ -89,6 +89,10 @@ void dzabi2() {
          "their codebase.");
 }
 
+void tmei22_akona2() {
+  printf("Github is confusing");
+}
+
 void jdelr5_lwalk9() {
   printf("James Del Re and Levi Walker");
   printf("We learned that git is used for a lot more than just uploading code and
