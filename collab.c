@@ -291,7 +291,10 @@ void skaka4_maguir23() {
          "command line ");
 }
 
-// Just checking
+void numar2_azaidi5() {
+  printf("Nameera Umar and Alisha Zaidi\n");
+  printf("We learned how to use git commands.\n");
+}
 
 int main() {
   printf(
@@ -338,6 +341,7 @@ int main() {
   dwils22_mtino3();
   preyes9_naboug2();
   skaka4_maguir23();
+  numar2_azaidi5();
 
   return 0;
 }
