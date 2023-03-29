@@ -87,11 +87,11 @@ void pghimi3_ariver67() {
          "original repo");
 }
 
-void skalal2(){
+void skalal2() {
   printf("Sanskar Kalal");
-  printf("I learned how to use github effectively to collaborate with other developers");
+  printf("I learned how to use github effectively to collaborate with other "
+         "developers");
 }
-
 
 void dzabi2() {
   printf("Denys Zabiyaka");
@@ -106,8 +106,11 @@ void tmei22_akona2() {
 
 void jdelr5_lwalk9() {
   printf("James Del Re and Levi Walker");
-  printf("We learned that git is used for a lot more than just uploading code and is really useful for version control too.");
-  printf("I learned using git is very benefical for when multiple people are working on project and can accomplish more in less time as they continue to push changes to the remote repository");
+  printf("We learned that git is used for a lot more than just uploading code "
+         "and is really useful for version control too.");
+  printf("I learned using git is very benefical for when multiple people are "
+         "working on project and can accomplish more in less time as they "
+         "continue to push changes to the remote repository");
 }
 
 void ddesle3_yshah33() {
@@ -186,10 +189,10 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
-void bpark40()
-{
+void bpark40() {
   printf("Byeonguk Park\n");
-  printf("I learned ijnkjnblokhow to clone a repository and edit it. I also found how to update the changes to collab repository");
+  printf("I learned ijnkjnblokhow to clone a repository and edit it. I also "
+         "found how to update the changes to collab repository");
 }
 void yguad2_xhuan7() {
   printf("Yasmin Guadarrama, \n");
@@ -210,59 +213,69 @@ void ddizo2_tle94() {
   printf("Dylan Dizonno\n");
   printf("Tam Le\n");
 
-  
-
   printf("You can use git to create a running log of changes and edits\n");
-  printf("You can collab with as many people as you want in an organized fashion\n");
+  printf("You can collab with as many people as you want in an organized "
+         "fashion\n");
 }
 
-void dnazi2_lcasti39(){
+void dnazi2_lcasti39() {
   printf("Dania Nazimuddin and Lorena Castillejo");
-  printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
+  printf("Something that gave us trouble was figuring out the logistics of "
+         "github, \n like creating repositories\n");
 }
 
-void kgumma2_sdoyle9(){
+void kgumma2_sdoyle9() {
   printf("Chay Gummalla and Sophie Doyle");
-  printf("One issue that we have encountered while cloning a repository is related to authentication.");
+  printf("One issue that we have encountered while cloning a repository is "
+         "related to authentication.");
 }
 
-void nvm4_radu3(){
+void nvm4_radu3() {
   printf("Naga Maddipudi and Reggie Adu");
-  prinft("One thing we had trouble with was installing bash into our computers and getting it to work.\n");
+  prinft("One thing we had trouble with was installing bash into our computers "
+         "and getting it to work.\n");
 }
 
-void rGarn3_mRahi2(){
+void rGarn3_mRahi2() {
   printf("Rachel Garner and Minahil Rahimullah");
-  printf("Something we found difficult was the formating of the github website and seeing what each and every function does\n");
-  printf("exploring the website was interesting as it lead to many discoveries sucha as collaberation options and other functions");
-  
+  printf("Something we found difficult was the formating of the github website "
+         "and seeing what each and every function does\n");
+  printf("exploring the website was interesting as it lead to many discoveries "
+         "sucha as collaberation options and other functions");
 }
 
 void nnewm3_mshifa2_oahme3() {
   printf("Nick Newman\n");
   printf("Munazza Shifa\n");
   printf("Owais Ahmed\n");
-  printf("We learned that GitHub can be used to create repositories for collaborating with other people on projects");
+  printf("We learned that GitHub can be used to create repositories for "
+         "collaborating with other people on projects");
 }
 
-
-void ayaag2_jms13_ksoni21(){
+void ayaag2_jms13_ksoni21() {
   printf("Adam Yaagoub\n");
   printf("Kevin Soni\n");
   printf("Joshua Sandoval\n");
-  printf("We learned how to use Git and also conncect with Replit to make work easier\n");
-  printf("We also learned how to properly use pull and push to update a remote repository\n");
-  printf("Cloning and modifing the repository via the Git tool in replit is far eaiser than using the Shell to do it (since it involves SSH and stc.\n");
+  printf("We learned how to use Git and also conncect with Replit to make work "
+         "easier\n");
+  printf("We also learned how to properly use pull and push to update a remote "
+         "repository\n");
+  printf(
+      "Cloning and modifing the repository via the Git tool in replit is far "
+      "eaiser than using the Shell to do it (since it involves SSH and stc.\n");
 }
-void skesl2_rjain56_ngoel9(){
+void skesl2_rjain56_ngoel9() {
   printf("Semih Kesler and Rahin Jain and Nirgun Goel\n");
-  printf("We learned about the various git commands in a brief manner from the readings, but we still more practice with the git commands");
+  printf("We learned about the various git commands in a brief manner from the "
+         "readings, but we still more practice with the git commands");
 }
 
 void dwils22_mtino3() {
   printf("Darius Wilson & Marco Tinoco");
-  printf("GitHub could be used for a lot of things, and something we learned was the commands like clone, push, add, and status.");
-  printf("Using git commit is really useful to see what was the last thing you did (When you do commit).");
+  printf("GitHub could be used for a lot of things, and something we learned "
+         "was the commands like clone, push, add, and status.");
+  printf("Using git commit is really useful to see what was the last thing you "
+         "did (When you do commit).");
 }
 
 void preyes9_naboug2() {
@@ -271,8 +284,14 @@ void preyes9_naboug2() {
   printf("We learned how to clone a remote repository.\n");
   printf("We also learned how to create a new branch.\n");
 }
+void skaka4_maguir23() {
+  printf("Sai Rohan and Mario Aguirre-Rosale\n");
+  printf("We learnt about linking github repository and a replit file\n ");
+  printf("Learnt about cloning, push, pull, add , commit for cloning using "
+         "command line ");
+}
 
-//Just checking 
+// Just checking
 
 int main() {
   printf(
@@ -318,6 +337,7 @@ int main() {
   skesl2_rjain56_ngoel9();
   dwils22_mtino3();
   preyes9_naboug2();
-  
+  skaka4_maguir23();
+
   return 0;
 }
