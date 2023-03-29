@@ -166,6 +166,11 @@ void airfan6_aarro3(){
   printf("Alex Arroyo \n");
   printf("I learned how to connect my replit account to my GitHub account to modify repositories");
 }
+void bpark40()
+{
+  printf("Byeonguk Park\n");
+  printf("I learned how to clone a repository and edit it. I also found how to update the changes to collab repository");
+}
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
