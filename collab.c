@@ -295,6 +295,11 @@ void numar2_azaidi5() {
   printf("Nameera Umar and Alisha Zaidi\n");
   printf("We learned how to use git commands.\n");
 }
+void dshah96_and_kpate452(){
+  printf("Dev Shah\n");
+  printf("Kirtan ManojKumar Patel\n");
+  printf("We learned about git commands and also with that we got to know about how we can collaborate in real world when working on a big project with the help of github\n");
+}
 
 int main() {
   printf(
@@ -342,6 +347,6 @@ int main() {
   preyes9_naboug2();
   skaka4_maguir23();
   numar2_azaidi5();
-
+  dshah96_and_kpate452();
   return 0;
 }
