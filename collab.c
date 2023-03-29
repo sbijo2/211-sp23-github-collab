@@ -290,6 +290,10 @@ int main() {
 
 =======
   smajji3_tphan34();
+<<<<<<< HEAD
 >>>>>>> afce50c27cf0397a92543ff5638d24802f61924f
+=======
+  jturne44_yatla2();
+>>>>>>> 6b4542b676a7b0fb3d14f05a87d99aeda238bb8b
   return 0;
 }
