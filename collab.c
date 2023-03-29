@@ -265,6 +265,14 @@ void dwils22_mtino3() {
   printf("Using git commit is really useful to see what was the last thing you did (When you do commit).");
 }
 
+void preyes9_naboug2() {
+  printf("Paola Reyes\n");
+  printf("Nuha Abougoash\n");
+  printf("We learned how to clone a remote repository.\n");
+  printf("We also learned how to create a new branch.\n");
+}
+
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -308,6 +316,7 @@ int main() {
   nnewm3_mshifa2_oahme3();
   skesl2_rjain56_ngoel9();
   dwils22_mtino3();
+  preyes9_naboug2();
   
   return 0;
 }
