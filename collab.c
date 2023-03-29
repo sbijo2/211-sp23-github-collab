@@ -192,6 +192,14 @@ void yguad2_xhuan7() {
   printf("I learned that git is kind of confusing to navigate. I also learned "
          "how to connect my github to my replit account.")
 }
+void vmora7_jnett6() {
+  printf("Vania Mora Bastidas\n");
+  printf("Joann Netticadan\n");
+  printf("You can share your code with people without sending them the code "
+         "directly and can keep track of the changes made.\n");
+  printf(
+      "You can import from github to clone or use command line arguments.\n");
+}
 
 int main() {
   printf(
@@ -221,7 +229,7 @@ int main() {
   airfan6_aarro3();
   yguad2_xhuan7();
   skalal2();
-
+  vmora7_jnett6();
 
   return 0;
 }
