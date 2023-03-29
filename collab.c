@@ -221,6 +221,11 @@ void dnazi2_lcasti39(){
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
 }
 
+void kgumma2_sdoyle9(){
+  printf("Chay Gummalla and Sophie Doyle");
+  printf("")
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -253,6 +258,7 @@ int main() {
   bpark40();
   ddizo2_tle94();
   dnazi2_lcasti39();
+  kgumma2_sdoyle9();
 
   return 0;
 }
