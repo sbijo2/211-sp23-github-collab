@@ -77,9 +77,9 @@ void jgongo2_pkoby2_kseki3() {
          "You can make multiple commmits before pushing to the repository.\n");
 }
 void shaji3() {
-  printf("My name is Sabona and one thing I learned about Git is how to use git revert to undo changes in my repository.\n");
+  printf("My name is Sabona and one thing I learned about Git is how to use "
+         "git revert to undo changes in my repository.\n");
 }
-
 
 void pghimi3_ariver67() {
   printf("Pratishat Ghimire and Arturo Rivera");
@@ -173,14 +173,15 @@ void airfan6_aarro3() {
 }
 void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
+  printf("i learned how to do it through the command line\n");
 }
 
-void yguad2_xhuan7(){
-prinf("Yasmin Guadarrama, \n");
-printf("Xingwei Huang\n");
-printf("I learned that git is kind of confusing to navigate. I also learned how to connect my github to my replit account.")
+void yguad2_xhuan7() {
+  prinf("Yasmin Guadarrama, \n");
+  printf("Xingwei Huang\n");
+  printf("I learned that git is kind of confusing to navigate. I also learned "
+         "how to connect my github to my replit account.")
 }
-
 
 int main() {
   printf(
