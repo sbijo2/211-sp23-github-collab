@@ -112,6 +112,13 @@ void dshah97_ysawa2(){
   printf("we understand how git works and we will work on it\n");
 }
 
+void rwisni2_ajoshi46() {
+    printf("Anshool Joshi, Remik Wisniewski");
+    printf("I learned how to collabrate with other on github");
+    printf("I learned new git commands");
+
+}
+
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
@@ -126,5 +133,7 @@ int main() {
   jrosal21_melqa2();
   dshah97_ysawa2();
   svoda_jbrya4();
+  rwisni2_ajoshi46();
+    
   return 0;
 }
