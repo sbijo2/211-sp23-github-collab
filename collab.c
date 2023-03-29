@@ -148,7 +148,6 @@ void aomar22() {
   printf("Ackchat Omar");
   printf(
       "I learned that git pull is combination of git fetch and git merge.\n");
-  
 }
 void wsitu3() {
   printf("Wulong Situ\n");
@@ -158,13 +157,18 @@ void assdsa() {
   printf("sadc");
   printf("sdsd");
 }
-void cmora21_nrayan2(){
+void cmora21_nrayan2() {
   printf("Cesar Morales Neil Rayan\n");
-  printf("Something I learned was how to clone a repo and make changes to a remote repo from a local repo.\n");
+  printf("Something I learned was how to clone a repo and make changes to a "
+         "remote repo from a local repo.\n");
 }
-void airfan6_aarro3(){
+void airfan6_aarro3() {
   printf("Alex Arroyo \n");
-  printf("I learned how to connect my replit account to my GitHub account to modify repositories");
+  printf("I learned how to connect my replit account to my GitHub account to "
+         "modify repositories");
+}
+void eberr6() {
+  printf("i learned how to pull from git using replit and to push a commit\n");
 }
 
 void yguad2_xhuan7(){
