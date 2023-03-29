@@ -97,10 +97,23 @@ void vcolom2(){
   printf("like with Git Bash, Git GUI, Git CMD, Replit, etc.\n");
 }
 
-int main() {
-  printf(
-      "This code has been created by the students of CS 211, Spring 2023!\n\n");
+void svoda_jbrya4() {
+printf("Svetlana Voda and Jakya Bryant\n");
+printf("From the readings, we learned that git and GitHub are  effective ways to store code in the cloud, in case there are issues with our local machines.\n");
+printf("We can monitor what changes users have made to the program.\n"); 
+  printf("We understand how to conect local repository with remote repository");
+}
 
+void dshah97_ysawa2(){
+  printf("Devam Shah and Yasmin Sawaf\n");
+  printf("From the readings we learned different command lines of git and github and how it helps us collaborate with many people at a time during a project.\n");
+  printf("we also got to work on a collaborative project during a lab\n");
+  printf("we learned how cloning works and how local changes and global changes to the original vs the clone are different, this helps with twsting new ideas without effecting the original\n");
+  printf("we understand how git works and we will work on it\n");
+}
+
+int main() {
+  printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
   shadd3_alojko2();
   mausaf2_kperez39();
@@ -111,6 +124,7 @@ int main() {
   pghimi3_ariver67();
   ddesle3_yshah33();
   jrosal21_melqa2();
-
+  dshah97_ysawa2();
+  svoda_jbrya4();
   return 0;
 }
