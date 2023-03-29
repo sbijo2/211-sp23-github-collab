@@ -101,6 +101,7 @@ void dzabi2() {
 
 void tmei22_akona2() {
   printf("Github is confusing");
+  printf("Empty");
 }
 
 void jdelr5_lwalk9() {
@@ -185,7 +186,11 @@ void eberr6() {
   printf("i learned how to pull from git using replit and to push a commit\n");
   printf("i learned how to do it through the command line it was difficult\n");
 }
-
+void bpark40()
+{
+  printf("Byeonguk Park\n");
+  printf("I learned ijnkjnblokhow to clone a repository and edit it. I also found how to update the changes to collab repository");
+}
 void yguad2_xhuan7() {
   printf("Yasmin Guadarrama, \n");
   printf("Xingwei Huang\n");
@@ -201,10 +206,31 @@ void vmora7_jnett6() {
       "You can import from github to clone or use command line arguments.\n");
 }
 
+<<<<<<< HEAD
 void ssoms2_hvonte2(){
   printf("Shane Somson\n");
   printf("Harini Vontela\n");
   printf("Github is a great way to collaborate with people on the same project.");
+=======
+void ddizo2_tle94() {
+  printf("Dylan Dizonno\n");
+  printf("Tam Le\n");
+
+  
+
+  printf("You can use git to create a running log of changes and edits\n");
+  printf("You can collab with as many people as you want in an organized fashion\n");
+}
+
+void dnazi2_lcasti39(){
+  printf("Dania Nazimuddin and Lorena Castillejo");
+  printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
+}
+
+void kgumma2_sdoyle9(){
+  printf("Chay Gummalla and Sophie Doyle");
+  printf("One issue that we have encountered while cloning a repository is related to authentication.");
+>>>>>>> 53a1c7d7ea8e4acf747ed614c84997bdedd41c97
 }
 
 int main() {
@@ -236,7 +262,14 @@ int main() {
   yguad2_xhuan7();
   skalal2();
   vmora7_jnett6();
+<<<<<<< HEAD
   ssoms2_hvonte2();
+=======
+  bpark40();
+  ddizo2_tle94();
+  dnazi2_lcasti39();
+  kgumma2_sdoyle9();
+>>>>>>> 53a1c7d7ea8e4acf747ed614c84997bdedd41c97
 
   return 0;
 }
