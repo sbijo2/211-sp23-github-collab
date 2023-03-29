@@ -221,6 +221,12 @@ void dnazi2_lcasti39(){
   printf("Something that gave us trouble was figuring out the logistics of github, \n like creating repositories\n");
 }
 
+void ksabo4_heasam2(){
+  printf("Kyle Sabo\n");
+  printf("Harshavardhan Easam\n");
+  printf("We learned that you can directly connect a github repo to replit.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -253,6 +259,7 @@ int main() {
   bpark40();
   ddizo2_tle94();
   dnazi2_lcasti39();
+  ksabo4_heasam2();
 
   return 0;
 }
