@@ -71,6 +71,10 @@ void jgongo2_pkoby2_kseki3() {
     printf("We learned that commit and push are seperate operations. "
            "You can make multiple commmits before pushing to the repository.\n");
 }
+void shaji3() {
+  printf("My name is Sabona and one thing I learned about Git is how to use git revert to undo changes in my repository.\n");
+}
+
 
 int main() {
   printf(
@@ -83,6 +87,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  shaji3();
 
   return 0;
 }
