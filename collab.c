@@ -91,6 +91,12 @@ void ddesle3_yshah33(){
     printf("Installing to local machine and keeping track of commits.");
 }
 
+void vcolom2(){
+  printf("Victor Colome\n");
+  printf("Learned that you can make changes to a repository in many different ways,\n");
+  printf("like with Git Bash, Git GUI, Git CMD, Replit, etc.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
