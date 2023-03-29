@@ -76,6 +76,27 @@ void pghimi3_ariver67(){
   printf("Pratishat Ghimire and Arturo Rivera");
   printf("We learned how to reflect the changes made locally, remotely on the original repo");
 }
+
+void ddesle3_yshah33(){
+    printf("Dishant Desle, Yashwi Shah\n");
+    printf("We learned to connect and collaborate on a code under one\n"); 
+    printf("repository and that we can update the existinig repository.");
+    printf("We learned that github is online programming tool\n");
+    printf("that more software companies use to communicate about their project\n");
+    
+}
+    void jrosal21_melqa2(){
+    printf("Isaac Rosales, Musa Elqaq");
+    printf("Xcode has integrated source control in the toolbar which contains git hub commands.");
+    printf("Installing to local machine and keeping track of commits.");
+}
+
+void vcolom2(){
+  printf("Victor Colome\n");
+  printf("Learned that you can make changes to a repository in many different ways,\n");
+  printf("like with Git Bash, Git GUI, Git CMD, Replit, etc.\n");
+}
+
 void svoda_jbrya4() {
 printf("Svetlana Voda and Jakya Bryant\n");
 printf("From the readings, we learned that git and GitHub are  effective ways to store code in the cloud, in case there are issues with our local machines.\n");
@@ -93,7 +114,6 @@ void dshah97_ysawa2(){
 
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
-
   reed_ekidan2();
   shadd3_alojko2();
   mausaf2_kperez39();
@@ -102,6 +122,8 @@ int main() {
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
   pghimi3_ariver67();
+  ddesle3_yshah33();
+  jrosal21_melqa2();
   dshah97_ysawa2();
   svoda_jbrya4();
   return 0;
