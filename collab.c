@@ -72,6 +72,14 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void ddesle3_yshah33(){
+  printf("Dishant Desle, Yashwi Shah\n");
+  printf("We learned to connect and collaborate on a code under one\n"); 
+  printf("repository and that we can update the existinig repository.");
+  printf("We learned that github is online programming tool\n");
+  printf("that more software companies use to communicate about their project\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +91,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  ddesle3_yshah33();
 
   return 0;
 }
