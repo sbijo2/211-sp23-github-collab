@@ -28,6 +28,11 @@ void amite2() {
          "learned it has a lot more than that\n");
 }
 
+void mmadr5() {
+  printf("Miguel Madrigal\n");
+  printf("Github is pretty cool for forking other peoples projects!\n");
+}
+
 void shadd3_alojko2() {
   printf("Sammy Haddad and Angela Lojko\n");
   printf("From the readings, we learned that git and GitHub are really "
@@ -270,7 +275,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-
+  mmadr5()
   shaji3();
   pghimi3_ariver67();
   dzabi2();
