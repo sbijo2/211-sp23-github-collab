@@ -22,10 +22,6 @@ void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
-void amite2() {
-  printf("Andrej Mitevski\n");
-  printf("Thought that github was literally just a place to upload code, learned it has a lot more than that\n");
-}
 
 void shadd3_alojko2() {
   printf("Sammy Haddad and Angela Lojko\n");
@@ -81,11 +77,6 @@ void pghimi3_ariver67(){
   printf("We learned how to reflect the changes made locally, remotely on the original repo");
 }
 
-void dzabi2(){
-  printf("Denys Zabiyaka");
-  printf("I learned that Git allows developers to create multiple branches for their codebase.");
-}
-
 void ddesle3_yshah33(){
     printf("Dishant Desle, Yashwi Shah\n");
     printf("We learned to connect and collaborate on a code under one\n"); 
@@ -121,22 +112,9 @@ void dshah97_ysawa2(){
   printf("we understand how git works and we will work on it\n");
 }
 
-void rwisni2_ajoshi46() {
-    printf("Anshool Joshi, Remik Wisniewski");
-    printf("I learned how to collabrate with other on github");
-    printf("I learned new git commands");
-
-}
-
-void aomar22() {
-  printf("Ackchat Omar");
-  printf("I learned that git pull is combination of git fetch and git merge.\n");
-}
-
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
-  amite2();
   shadd3_alojko2();
   mausaf2_kperez39();
   ppacho2_grohr2();
@@ -144,12 +122,9 @@ int main() {
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
   pghimi3_ariver67();
-  dzabi2();
   ddesle3_yshah33();
   jrosal21_melqa2();
   dshah97_ysawa2();
   svoda_jbrya4();
-  rwisni2_ajoshi46();
-    
   return 0;
 }
