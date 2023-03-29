@@ -142,12 +142,15 @@ void aomar22() {
   printf("Ackchat Omar");
   printf(
       "I learned that git pull is combination of git fetch and git merge.\n");
+  
 }
 void wsitu3() {
   printf("Wulong Situ\n");
   printf("Had trouble updating the file\n");
 }
-
+void assdsa() {
+  printf("sadc");
+}
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
