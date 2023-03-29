@@ -254,6 +254,10 @@ void ayaag2_jms13_ksoni21(){
   printf("We also learned how to properly use pull and push to update a remote repository\n");
   printf("Cloning and modifing the repository via the Git tool in replit is far eaiser than using the Shell to do it (since it involves SSH and stc.\n");
 }
+void skesl2_rjain56_ngoel9(){
+  printf("Semih Kesler and Rahin Jain and Nirgun Goel\n");
+  printf("We learned about the various git commands in a brief manner from the readings, but we still more practice with the git commands");
+}
 
 int main() {
   printf(
@@ -296,5 +300,7 @@ int main() {
   skaka4_maguir23();
   lmeha2_ntemp3();
   nnewm3_mshifa2_oahme3();
+  skesl2_rjain56_ngoel9();
+  
   return 0;
 }
