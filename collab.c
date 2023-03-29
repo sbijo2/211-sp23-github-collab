@@ -301,6 +301,15 @@ void lmeha2_ntemp3(){
   printf("Github is used to collaborate on code in a large scale. Something that confused us were the structure of the command line commands.");
 }
 
+void ayaag2_jms13_ksoni21(){
+  printf("Adam Yaagoub\n");
+  printf("Kevin Soni\n");
+  printf("Joshua Sandoval\n");
+  printf("We learned how to use Git and also conncect with Replit to make work easier\n");
+  printf("We also learned how to properly use pull and push to update a remote repository\n");
+  printf("Cloning and modifing the repository via the Git tool in replit is far eaiser than using the Shell to do it (since it involves SSH and stc.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
