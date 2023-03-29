@@ -253,6 +253,11 @@ void smajji3_tphan34(){
   printf("Changing something\n");
 }
 
+void hmodi5_jtagu2(){
+  printf("hmodi5 and Josh Tagudar/n");
+  printf("I heard a lot about github but didnt really knew hiw it worked and how we can collaborate and clone the repository so it was a very new thing for me");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -291,6 +296,6 @@ int main() {
   kgumma2_sdoyle9();
   rGarn3_mRahi2();
   smajji3_tphan34();
-
+hmodi5_jtagu2();
   return 0;
 }
