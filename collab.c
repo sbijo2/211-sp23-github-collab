@@ -238,6 +238,13 @@ void nvm4_radu3(){
   prinft("One thing we had trouble with was installing bash into our computers and getting it to work.\n");
 }
 
+void rGarn3_mRahi2(){
+  printf("Rachel Garner and Minahil Rahimullah");
+  printf("Something we found difficult was the formating of the github website and seeing what each and every function does\n");
+  printf("exploring the website was interesting as it lead to many discoveries sucha as collaberation options and other functions");
+  
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -274,6 +281,7 @@ int main() {
   ddizo2_tle94();
   dnazi2_lcasti39();
   kgumma2_sdoyle9();
+  rGarn3_mRahi2();
 >>>>>>> 53a1c7d7ea8e4acf747ed614c84997bdedd41c97
 
   return 0;
