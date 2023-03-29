@@ -251,11 +251,8 @@ int main() {
   skalal2();
   vmora7_jnett6();
   bpark40();
-<<<<<<< HEAD
   ddizo2_tle94();
-=======
   dnazi2_lcasti39();
->>>>>>> d5f2e09e259cbfc0ef321a353e6f3d5c179a0531
 
   return 0;
 }
