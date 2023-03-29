@@ -150,6 +150,7 @@ void wsitu3() {
 }
 void assdsa() {
   printf("sadc");
+  printf("sdsd");
 }
 int main() {
   printf(
