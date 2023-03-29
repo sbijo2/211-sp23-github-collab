@@ -72,6 +72,12 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void jrosal21_melqa2() {
+    printf("Isaac Rosales, Musa Elqaq");
+    printf("Xcode has integrated source control in the toolbar which contains git hub commands.")
+    printf("Installing to local machine and keeping track of commits.")
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +89,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  jrosal21_melqa2();
 
   return 0;
 }
