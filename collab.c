@@ -22,6 +22,10 @@ void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
+void amite2() {
+  printf("Andrej Mitevski\n");
+  printf("Thought that github was literally just a place to upload code, learned it has a lot more than that\n");
+}
 
 void shadd3_alojko2() {
   printf("Sammy Haddad and Angela Lojko\n");
@@ -96,6 +100,7 @@ int main() {
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
 
   reed_ekidan2();
+  amite2();
   shadd3_alojko2();
   mausaf2_kperez39();
   ppacho2_grohr2();
