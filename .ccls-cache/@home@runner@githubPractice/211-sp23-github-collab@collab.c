@@ -94,7 +94,7 @@ void dshah97_ysawa2(){
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
 
-   reed_ekidan2();
+  reed_ekidan2();
   shadd3_alojko2();
   mausaf2_kperez39();
   ppacho2_grohr2();
