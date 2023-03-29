@@ -273,6 +273,11 @@ void jbuen4_cnaro2(){
   printf("We learned how to use Git and Github to efficiently collaborate on projects\n");
 }
 
+void pkann2_refin2() {
+  printf("Pavan Kannan and Raneem Efin\n");
+  printf("We learned that GitHub can be a good place for employers to see projects you worked on");
+}
+
 
 int main() {
   printf(
@@ -313,6 +318,7 @@ int main() {
   rGarn3_mRahi2();
   smajji3_tphan34();
 hmodi5_jtagu2();
+pkann2_refin2();
 acruz200();
   return 0;
 }
