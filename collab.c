@@ -313,6 +313,11 @@ void mshah245_amicha33()
   printf("We learned that version control is very important\n");
 }
 
+void mmadr5() {
+  printf("Miguel Madrigal\n");
+  printf("Github is pretty cool for forking other peoples projects!\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -362,6 +367,7 @@ int main() {
   numar2_azaidi5();
   dshah96_and_kpate452();
   mshah245_amicha33();
+  mmadr5();
 
   return 0;
 }
