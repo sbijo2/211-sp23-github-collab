@@ -127,6 +127,11 @@ void rwisni2_ajoshi46() {
 
 }
 
+void aomar22() {
+  printf("Ackchat Omar");
+  printf("I learned that git pull is combination of git fetch and git merge.\n");
+}
+
 int main() {
   printf("This code has been created by the students of CS 211, Spring 2023!\n\n");
   reed_ekidan2();
