@@ -318,9 +318,9 @@ void mmadr5() {
   printf("Github is pretty cool for forking other peoples projects!\n");
 }
 
-void sbijo2() {
-  printf("Sidharth Bijo");
-  printf("I learned about the different git commands and their functions. As well as how helpful this powerful tool can be for me as a Computer Science student.");
+void sbijo2_acamp35() {
+  printf("Sidharth Bijo and Alberto Canpuzano");
+  printf("We learned about the different git commands and their functions. As well as how helpful this powerful tool can be for me as a Computer Science student.");
 }
 
 int main() {
