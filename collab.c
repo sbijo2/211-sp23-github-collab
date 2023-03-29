@@ -245,6 +245,14 @@ void rGarn3_mRahi2(){
   
 }
 
+void smajji3_tphan34(){
+  printf("Sai Pratheek Majji /n");
+  printf(" Trinh Thi Phuong Phan /n");
+  printf(" we learned how to clone the repository and also faced challenges in the beggining with error linker command failed /n");
+  printf( "Now, we are a bit familiar with Git.\n ");
+  printf("Changing something\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -282,7 +290,7 @@ int main() {
   dnazi2_lcasti39();
   kgumma2_sdoyle9();
   rGarn3_mRahi2();
->>>>>>> 53a1c7d7ea8e4acf747ed614c84997bdedd41c97
+  smajji3_tphan34();
 
   return 0;
 }
