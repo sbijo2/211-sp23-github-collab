@@ -143,6 +143,10 @@ void aomar22() {
   printf(
       "I learned that git pull is combination of git fetch and git merge.\n");
 }
+void wsitu3() {
+  printf("Wulong Situ\n");
+  printf("Had trouble updating the file\n");
+}
 
 int main() {
   printf(
@@ -163,7 +167,7 @@ int main() {
   dshah97_ysawa2();
   svoda_jbrya4();
   rwisni2_ajoshi46();
-  // hey
+  wsitu3();
 
   return 0;
 }
