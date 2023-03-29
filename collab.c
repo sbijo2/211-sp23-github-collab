@@ -147,9 +147,11 @@ int main() {
   dzabi2();
   ddesle3_yshah33();
   jrosal21_melqa2();
+  vcolom2();
   dshah97_ysawa2();
   svoda_jbrya4();
   rwisni2_ajoshi46();
+  
     
   return 0;
 }
